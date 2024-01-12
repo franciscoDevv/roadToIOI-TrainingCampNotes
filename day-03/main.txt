@@ -1,0 +1,12 @@
+Estructuras de Datos I
+=======================
+TEnemos un arreglo de enteros y no van a hacer consultas del tipo [l, r], nso darán un rango y debemos contestar con el elemento más grande que se encuentra e dicho rango, si hacemos esto iterativamente, la complejidad es O(qn). 
+
+Square root composition es subdividir en raiz de n grupos e ir viendo el máximo, esto tomado como nota.
+
+Continuando con el tema, Segment Tree:
+
+La idea es ir tomando pares de valores e ir construyendo pisos hacia arriba con la condición que nos piden.
+
+Para encontrar rapido estos rangos, y ver cuantos pueden haber como maximo
+
